@@ -1,0 +1,6 @@
+{
+  "name": "Bucici Biz - Sahabat Pedagang",
+  "description": "Sistem Kasir POS Multi-Tenant dengan AI-sisten Cerdas, Manajemen Gudang Bahan Baku, Perumus Copywriting Poster Promosi, dan Kalkulator HPP Otomatis untuk UMKM.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
